@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 -->
 
 
-![standard-song's GitHub stats](https://github-readme-stats.vercel.app/api?username=standard-song&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=standard-song&layout=compact)](https://github.com/standard-song/github-readme-stats)
+![standard-song's GitHub stats](https://github-readme-stats.vercel.app/api?username=standard-song&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=standard-song&layout=compact)](https://github.com/standard-song/github-readme-stats)
